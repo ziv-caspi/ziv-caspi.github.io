@@ -42051,7 +42051,7 @@ case 2:return P.a4(o,r)}})
 return P.a6($async$qL,r)}}
 M.a0s.prototype={}
 L.qr.prototype={
-gmf(){return"kim.png"},
+gmf(){return"assets/kim.png"},
 zE(a){var s,r={},q=a.a
 if(q==null)q=$.Mn()
 r.a=r.b=null
@@ -42077,7 +42077,7 @@ if(q==null)return a.h(0,r)
 if(b<2||b>(r+q)/2)return a.h(0,q)
 else return a.h(0,r)},
 F4(a){var s,r,q,p
-if(a==="kim.png")return 1
+if(a==="assets/kim.png")return 1
 s=P.a7J(a)
 r=s.gmC().length>1?s.gmC()[s.gmC().length-2]:""
 q=$.aeH().t7(r)
@@ -58702,7 +58702,7 @@ qN(){var s=0,r=P.a7(t.z),q=this,p
 var $async$qN=P.a3(function(a,b){if(a===1)return P.a4(b,r)
 while(true)switch(s){case 0:p=C.aJ
 s=2
-return P.ad($.Mn().a4w("foods.json"),$async$qN)
+return P.ad($.Mn().a4w("assets/foods.json"),$async$qN)
 case 2:q.a=p.dF(0,b)
 return P.a5(null,r)}})
 return P.a6($async$qN,r)},
