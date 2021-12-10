@@ -58734,7 +58734,7 @@ X.a0X.prototype={
 $1(a){return C.Am},
 $S:330}
 F.Ch.prototype={
-T(a,b){return new S.tc(new X.rB(null),"Flutter Demo",X.acj(P.aB(C.d.aN(76.5),255,126,117),null,C.pe),null)}}
+T(a,b){return new S.tc(new X.rB(null),"Will Kim Eat It?",X.acj(P.aB(C.d.aN(76.5),255,126,117),null,C.pe),null)}}
 N.uM.prototype={
 aX(){return new N.xr(C.o)},
 a59(a,b){return this.d.$1(b)}}
